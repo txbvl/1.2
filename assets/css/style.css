@@ -1,0 +1,30 @@
+.introduccion{
+    color: rgb(3, 150, 130);
+    text-align: center;
+    margin: 5%;
+   
+}
+
+.integrantes{
+    color: rgb(53, 45, 2);
+    list-style: none;
+    text-align: center;
+    margin: 5%;
+   
+}
+
+.seccionayuda{
+    color: black;
+    list-style: none;
+    text-align: center;
+    margin: 5%;
+}
+
+.GatosAdopcion{
+    text-align: center;
+}
+
+.PerrosAdopcion{
+    text-align: center;
+}
+
